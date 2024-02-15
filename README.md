@@ -2,13 +2,27 @@
 
 ![store_image](https://github.com/Kingkene/E-commerce-data-Report/assets/120706444/f5128933-1b76-4db0-9f4a-5a4e79db58b8)
 ---
+
+## Table of Contents
+
+- [INTRODUCTION](#introduction)
+- [Problem Statement](#problem-statement)
+- [Sample Questions](#sample-questions)
+- [Dataset Overview](#dataset-overview)
+- [Data Wrangling](#data-wrangling)
+- [Visualization](#visualization)
+- [ANALYSIS](#analysis)
+- [Summary](#summary)
+- [Recommendations](#recommendations)
+
+
 ## INTRODUCTION
 
 This e-commerce company provides clothing, Technology, and sports services and sales to customers in different countries. 
 My objective in this analysis is to determine how to increase revenue generation and identify which product has the highest potential to yield profit in which location. 
 I'll be able to explore and analyze the data in Microsoft Excel, as you requested.
 
-## Problem statement
+## Problem Statement
 
 While it is advantageous to expand a business, different factors need to be considered to yield results. 
 The demand for each product by different countries, the profit made over the years from the region, and the cost of setting up and operating the business there. 
